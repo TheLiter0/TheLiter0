@@ -1,4 +1,4 @@
-Hello, I'm John I'm a passionate developer and designer currently exploring the realms of game development and 3D modeling. With a knack for creative problem-solving, I'm deeply engaged in building immersive environments and interactive experiences.
+Hello, I'm John I'm a developer and designer currently exploring the realms of game development and 3D modeling. With a love for creative problem-solving, I'm deeply engaged in building immersive environments and interactive experiences.
 
 **Game Development:** I've been working with Unreal Engine, focusing on aspects like enemy and player interactions, and I have experience in creating dynamic gameplay mechanics using Blueprints. My projects range from designing detailed 3D restaurant models to crafting engaging zombie games in Roblox Studio.
 
